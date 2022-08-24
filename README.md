@@ -21,5 +21,5 @@ You can click the Preview link to take a look at your changes.
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/NextJS-282C34?logo=nextjs&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
+<span><img src="https://img.shields.io/badge/NextJS-282C34?logo=nextdotjs&logoColor=764ABC" alt="NextJS logo" title="NextJS" height="25" /></span>
 &nbsp;
